@@ -6,7 +6,7 @@ My first repository
 
 ---
 
-# Grey's Anatomy: A Timeless Medical Drama {#grey-s-anatomy}
+# Grey's Anatomy: A Timeless Medical Drama
 
 *A rollercoaster of emotions, a whirlwind of romance, and a heart-wrenching exploration of the human condition.*
 
