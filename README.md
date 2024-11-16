@@ -7,7 +7,7 @@ My first repository
 
 ---
 
-# Grey's Anatomy: A Must-Watch Medical Drama {#greys-anatomy}
+# Grey's Anatomy: A Must-Watch Medical Drama
 
 * **Emotional Rollercoaster:** :roller_coaster: Prepare to laugh, cry, and everything in between.
 * **Compelling Characters:** :man_health_worker::woman_health_worker: A diverse cast of doctors with complex backstories.
