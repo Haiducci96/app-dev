@@ -1,13 +1,13 @@
 # app-dev
 My first repository
 
-#### **My favorite TV series is Grey's Anatomy**
+### **My favorite TV series is Grey's Anatomy**
 
 **Here's why:**
 
 ---
 
-## Grey's Anatomy: A Must-Watch Medical Drama
+# Grey's Anatomy: A Must-Watch Medical Drama
 
 * **Emotional Rollercoaster:** :roller_coaster: Prepare to laugh, cry, and everything in between.
 * **Compelling Characters:** :man_health_worker::woman_health_worker: A diverse cast of doctors with complex backstories.
