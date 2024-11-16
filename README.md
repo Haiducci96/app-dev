@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-### ** * My favorite TV series is Grey's Anatomy* **
+### ** *My favorite TV series is Grey's Anatomy* **
 
 **Here's why:**
 
